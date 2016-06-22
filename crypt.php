@@ -85,17 +85,3 @@ class crypto{
 
 
  }
-
-
-
-$s =  new crypto();
-echo $s->enCrypt("shad0w");
-echo "<br>";
-echo $s->has("shad0w");
-echo "<br>";
-echo $s->deCrypt("zFkZslGeDlLFyF8Bcllt3ZZ3rcC8zPeOAc6LSIeHQ6s");
-echo "<br>";
-
-?>
-
-
