@@ -1,6 +1,6 @@
-# crypto-php
+# crypt-php
 
-Crypto-PHP encryption/decryption on your data with PHP for more security
+Crypt-PHP encryption/decryption on your data with PHP for more security
 
 ## Usage ##
 
